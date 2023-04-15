@@ -2,7 +2,7 @@ let inputs=document.getElementsByClassName("ip-value");
 let pswd=document.getElementById("password-form");
 let cnfmPswd=document.getElementById("password-confrm");
 let mobileNo=document.getElementById("mobile-no");
-let count=0;
+let count=0
 let btn=document.getElementById("btn");
 btn.addEventListener("click",function(e)
 {
