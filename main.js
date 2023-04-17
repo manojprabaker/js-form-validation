@@ -1,3 +1,4 @@
+
 let inputs=document.getElementsByClassName("ip-value");
 let pswd=document.getElementById("password-form");
 let cnfmPswd=document.getElementById("password-confrm");
